@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class menu {
+public class menu {
+    public static void main(String[] args) {
+
+    }
 }
