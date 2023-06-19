@@ -53,6 +53,4 @@ public class menu {
                 System.out.println("Esta es el area de la parabola");
                 parabola.Parabola_Equipo2_ImpVer();
                 System.out.println("Recuerde que para salir del sistema la opcion es 0");}}
-        while(opcion != 0);
-    }
-}
+        while(opcion != 0);}}
